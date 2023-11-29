@@ -1,4 +1,5 @@
 # GitHub Actions Fundamentals
+# Merge Request
 
 Repo for the `GitHub Actions Fundamentals` training.
 
