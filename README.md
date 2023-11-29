@@ -1,5 +1,5 @@
 # GitHub Actions Fundamentals
-# Teste Modificação
+
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
